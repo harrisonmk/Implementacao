@@ -1,0 +1,21 @@
+---------------------------------------------
+
+  Caminhao 
+
+
+ ID: 2
+
+ Motorista: harrison
+
+ Marca: chevrolet
+
+ Tamanho: 94
+
+ Local Atual: salvador
+
+ Local Destino: bahia
+
+ Salario do Motorista: 45.567
+
+ Km por Litro: 30.0
+---------------------------------------------
